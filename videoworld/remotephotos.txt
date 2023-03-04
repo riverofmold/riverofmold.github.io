@@ -18,7 +18,7 @@
 18.png{delimiter}Floor Is Lava{delimiter}
 19.png{delimiter}Yodax{delimiter}
 20.png{delimiter}Friez & Taku's B-bday{delimiter}Friez, Sciliya, Taku, Loch
-21.png{delimiter}Roxy & River{delimiter}
+21.png{delimiter}roxy & river{delimiter}
 22.png{delimiter}LJayin & Akaines{delimiter}...
 23.png{delimiter}Dancing World{delimiter}Anthony, Zege, Astral, Loch
 24.png{delimiter}Loch & LJayin{delimiter}PeepoShy
