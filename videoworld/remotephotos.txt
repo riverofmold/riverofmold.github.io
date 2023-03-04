@@ -5,7 +5,7 @@
 5.png{delimiter}Friez & Sciliya{delimiter}peepoShy
 6.png{delimiter}???{delimiter}Akaines, Uppy, Cam
 7.png{delimiter}Group{delimiter}Rev, Akaines, Friez, Loch
-8.png{delimiter}PJ Night{delimiter}Sleepy, Revolt, Roxy, River
+8.png{delimiter}PJ Night{delimiter}Sleepy, Revvy, roxy, river
 9.png{delimiter}river{delimiter}
 10.png{delimiter}Karaoke Night{delimiter}
 11.png{delimiter}Drinking{delimiter}Loch, Lemi, Astral, Friez, Roti, Mania, Nok
