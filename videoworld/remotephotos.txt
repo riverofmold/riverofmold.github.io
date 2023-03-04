@@ -5,7 +5,7 @@
 5.png{delimiter}Friez & Sciliya{delimiter}peepoShy
 6.png{delimiter}???{delimiter}Akaines, Uppy, Cam
 7.png{delimiter}Group{delimiter}Rev, Akaines, Friez, Loch
-8.png{delimiter}Another Night Watching Videos{delimiter}Cookie, Akaines, Sciliya, Friez, Taku, Loch
+8.png{delimiter}PJ Night{delimiter}Sleepy, Revolt, Roxy, River
 9.png{delimiter}river{delimiter}
 10.png{delimiter}Karaoke Night{delimiter}
 11.png{delimiter}Drinking{delimiter}Loch, Lemi, Astral, Friez, Roti, Mania, Nok
@@ -18,7 +18,7 @@
 18.png{delimiter}Floor Is Lava{delimiter}
 19.png{delimiter}Yodax{delimiter}
 20.png{delimiter}Friez & Taku's B-bday{delimiter}Friez, Sciliya, Taku, Loch
-21.png{delimiter}Group{delimiter}Sleepy, Akaines, Doogle, Cookie, Prez, Friez, Sciliya, Loch
+21.png{delimiter}Roxy & River{delimiter}
 22.png{delimiter}LJayin & Akaines{delimiter}...
 23.png{delimiter}Dancing World{delimiter}Anthony, Zege, Astral, Loch
 24.png{delimiter}Loch & LJayin{delimiter}PeepoShy
