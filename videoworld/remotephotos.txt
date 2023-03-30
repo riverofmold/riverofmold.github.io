@@ -6,7 +6,6 @@
 6.png{delimiter}???{delimiter}Akaines, Uppy, Cam
 7.png{delimiter}Group{delimiter}Rev, Akaines, Friez, Loch
 8.png{delimiter}PJ Night{delimiter}Sleepy, Revvy, roxy, river
-9.png{delimiter}roxy & river{delimiter}
 10.png{delimiter}Karaoke Night{delimiter}
 11.png{delimiter}Drinking{delimiter}Loch, Lemi, Astral, Friez, Roti, Mania, Nok
 12.png{delimiter}Fxv & Zanaaa{delimiter}Cuties cuddling
@@ -18,9 +17,6 @@
 18.png{delimiter}Floor Is Lava{delimiter}
 19.png{delimiter}Yodax{delimiter}
 20.png{delimiter}Friez & Taku's B-bday{delimiter}Friez, Sciliya, Taku, Loch
-21.png{delimiter}roxy & river{delimiter}
-22.png{delimiter}river & roxy{delimiter}:(
-23.png{delimiter}river & roxy{delimiter}
 24.png{delimiter}Loch & LJayin{delimiter}PeepoShy
 25.png{delimiter}Yodax{delimiter}
 26.png{delimiter}Drunk{delimiter}Dezzy, Astral, Nok, Roti, Cam
