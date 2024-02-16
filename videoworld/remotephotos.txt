@@ -17,7 +17,7 @@
 18.png{delimiter}Floor Is Lava{delimiter}
 19.png{delimiter}Yodax{delimiter}
 20.png{delimiter}Friez & Taku's B-bday{delimiter}Friez, Sciliya, Taku, Loch
-24.png{delimiter}Loch & LJayin{delimiter}PeepoShy
+24.png{delimiter}Orb of Magma{delimiter}Mousy, Akaines, River, Skipper, Sensei
 25.png{delimiter}Yodax{delimiter}
 26.png{delimiter}Drunk{delimiter}Dezzy, Astral, Nok, Roti, Cam
 27.png{delimiter}{delimiter}Hopes, MPrintz, Friez, Cam, Lemi, Heads
